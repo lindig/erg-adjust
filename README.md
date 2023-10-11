@@ -20,7 +20,9 @@ intensity levels. The table shows both absolute 500m splits and splits
 relative to the split for a 30 minute at rate 20 ("30R20") workout.
 These splits should be considered just a starting point. The estimation
 might not be correct and individual physiology varies - some people are
-better sprinters than endurance athletes and vice versa. 
+better sprinters than endurance athletes and vice versa. Especially on
+the fast end athletes will know their times and splits and would not
+have to rely on this table.
 
 |2k     |2k/500 |2k/500|5k     |5k/500 |5k/500|*30R20/500*|UT1/500|UT1/500|UT2/500|UT2/500|
 |------:|------:|-----:|------:|------:|-----:|--------:|------:|------:|------:|------:|

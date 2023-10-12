@@ -1,7 +1,5 @@
-
 #! /usr/bin/env Rscript
 
-# library(ggplot2)
 library(lubridate)
 
 adj <- function(actual, base) (actual/base)^0.222
@@ -10,9 +8,7 @@ spd <- function(pwr) (pwr/2.8)^(1/3)
 
 round_df <- function(df, digits) {
   nums <- vapply(df, is.numeric, FUN.VALUE = logical(1))
-
   df[,nums] <- round(df[,nums], digits = digits)
-
   (df)
 }
 

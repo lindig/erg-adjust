@@ -4,6 +4,7 @@
 library(ggplot2)
 library(lubridate)
 library(scales)
+library(hms)
 
 adj <- function(actual, base) (actual/base)^0.222
 weight <- seq(50, 110, 1)

@@ -28,6 +28,7 @@ dst30r20 <- 2000 * (30*60/time2k)^(1/1.07)
 splt30r20 <- 500 * 30*60 / dst30r20
 
 splt2k <- (time2k/4)
+splt50 <- (500 / spd(pwr2k * 0.50))
 splt55 <- (500 / spd(pwr2k * 0.55))
 splt65 <- (500 / spd(pwr2k * 0.65))
 splt75 <- (500 / spd(pwr2k * 0.75))
